@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name         = "MRouterAd"
+  spec.name         = "MRouterAdSDK"
   spec.version      = "1.0.0"
   spec.summary      = "A short description of MRouterAd SDK for iOS."
   spec.description  = <<-DESC
