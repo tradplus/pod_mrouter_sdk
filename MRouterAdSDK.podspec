@@ -1,12 +1,12 @@
 Pod::Spec.new do |spec|
   spec.name         = "MRouterAdSDK"
-  spec.version      = "1.0.0.1"
-  spec.summary      = "A short description of MRouterAd SDK for iOS."
+  spec.version      = "1.0.0.2"
+  spec.summary      = "MRouterAd SDK"
   spec.description  = <<-DESC
-            MRouterAd SDK 
+            MRouterAd SDK for iOS
                    DESC
   spec.homepage     = "https://github.com/tradplus/pod_mrouter_sdk"
-  spec.license      = { :type => "MIT" }
+  spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author       = { "tradplus" => "service@tradplus.com" }
   spec.source       = { :git => "https://github.com/tradplus/pod_mrouter_sdk.git", :tag => spec.version }
   spec.platform     = :ios, '9.0'
